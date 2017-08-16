@@ -96,6 +96,7 @@ namespace geomety.ModelView
             Texts.Add(new Text {CanvasText = "hello", Left=10, Top=10});
             Texts.Add(new Text { CanvasText = "hello HELLO", Left = 20, Top = 20 });
             Texts.Add(new Text { CanvasText = "hello hello hello", Left = 30, Top = 30 });
+            Texts.Add(new Text { CanvasText = "new hello hello hello", Left = 50, Top = 50 });
 
             MyEllips = new Ellips();
 
